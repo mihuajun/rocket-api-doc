@@ -44,10 +44,6 @@ spring:
 
 #### 注意：可以配合页面动态配置功能，完成动态数据源管理
 
-{% content-ref url="../ye-mian-cao-zuo/xiang-mu-pei-zhi-v2.3.0-gong-neng-xin-zeng.md" %}
-[xiang-mu-pei-zhi-v2.3.0-gong-neng-xin-zeng.md](../ye-mian-cao-zuo/xiang-mu-pei-zhi-v2.3.0-gong-neng-xin-zeng.md)
-{% endcontent-ref %}
-
 #### factory-class-name 说明
 
 | 关系性数据库通用   | com.github.alenfive.rocketapi.datasource.factory.SQLFactory        |
